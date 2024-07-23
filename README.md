@@ -7,7 +7,7 @@
 
 
 ## About Me
-👨‍💻 All of my projects are available at https://shikhasingh96.github.io/ShikhaSinghPortfolio77.github.io/
+👨‍💻 All of my projects are available at https://shikhasingh96.github.io/ShikhaSinghPortfolio77.github.io/  \
 📈 You can view my dashboards at https://public.tableau.com/app/profile/shikha.singh5258/vizzes  \
 📫 You can reach me at **shikhasinghr77@gmail.com** 
 
