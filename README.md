@@ -3,7 +3,7 @@
 <h2 align = "center"> Dedicated and analytical-minded MSBA student with 3 plus years of experience as a Data analyst seeking full-time position.  </h2>
 
 📖 A graduate student at <b>California State University, East Bay</b> <br>
-📍 Milpitas, California <br>
+📍 California <br>
 
 
 ## About Me
