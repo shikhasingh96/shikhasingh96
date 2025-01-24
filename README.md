@@ -1,26 +1,45 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
 <h1 align = "center"> 👋 Hi, I’m Shikha Singh </h1>
-<h2 align = "center"> Dedicated and analytical-minded MSBA student with 3 plus years of experience as a Data analyst seeking full-time position.  </h2>
 
-📖 A graduate student at <b>California State University, East Bay</b> <br>
-📍 California <br>
+I'm a **dedicated and analytical-minded MSBA student** with over **3 + years of experience as a Data Analyst**, now actively seeking **full-time opportunities** to contribute to data-driven decision-making.
 
+📖 I'm currently pursuing my Master's student in **Business Analytics at California State University, East Bay (CSUEB)** and my passion for leveraging data science, predictive modeling, machine learning, and AI to solve complex real-world problems.
 
-## About Me
-👨‍💻 All of my projects are available at https://shikhasingh96.github.io/ShikhaSinghPortfolio77.github.io/  \
-📈 You can view my dashboards at https://public.tableau.com/app/profile/shikha.singh5258/vizzes  \
-📫 You can reach me at **shikhasinghr77@gmail.com** 
+📍 Based in **California**, I’m open to opportunities globally.  
 
-## Technologies Known: 
+---
 
-#### Languages and Databases:  
-<div class="image-container">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/ > 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" alt="Rstudio" width="40" height"40" title="RStudio"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" title="Mircosoft SQL Server"/>
-  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="mysql" width="40" height="40" title="MySQL Workbench"> 
-  <img 
-<!---
-shikhasingh96/shikhasingh96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## **🌟 About Me**  
+- 👨‍💻 Explore my projects and portfolio: [**Shikha Singh Portfolio**](https://shikhasingh96.github.io/ShikhaSinghPortfolio77.github.io/)  
+- 📈 Dive into my interactive dashboards: [**Tableau Public Profile**](https://public.tableau.com/app/profile/shikha.singh5258/vizzes)  
+- 📫 Let's connect! Reach out to me at **shikhasinghr77@gmail.com**  
+
+---
+
+## **🛠️ Technologies & Skills**
+### **Languages & Databases**  
+- **Python** | **RStudio** | **MS SQL Server** | **MySQL**  
+
+### **Data Science and Machine Learning**
+- **Scikit-learn**, **TensorFlow**, **Keras**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Plotly**
+- **Predictive Modeling**: Regression, Classification, Time-Series Forecasting
+- **Machine Learning Models**: Random Forest, Gradient Boosting, Neural Networks, Clustering
+- **AI**: NLP (Natural Language Processing), Reinforcement Learning  
+
+### **Data Tools & Frameworks**
+- **Tableau** | **Power BI** | **Excel (Advanced)** | **Google Sheets**  
+- **AWS Glue** | **AWS S3** | **Athena**  
+
+### **Other Technical Skills**  
+- **ETL Pipelines** | **SQL Query Optimization** | **Data Cleaning**  
+- **Data Visualization** | **Statistical Modeling** | **Business Analytics**  
+
+---
+
+## **💼 Professional Highlights**
+- 🔍 Over **3+ years of experience** in **data analytics**, building dashboards, ETL pipelines, and generating actionable insights.  
+- 📊 Successfully implemented projects using **AWS Glue**, **Python**, **SQL**, and **Tableau** to analyze and visualize complex datasets.  
+
+---
+
+Feel free to explore my repositories and connect for collaboration opportunities! 😊 
