@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
 <h1 align = "center"> 👋 Hi, I’m Shikha Singh </h1>
 
-I'm a **dedicated and analytical-minded MSBA student** with over **3 + years of experience as a Data Analyst**, now actively seeking **full-time opportunities** to contribute to data-driven decision-making.
+I'm a **dedicated and analytical-minded MSBA student** with over **4 + years of experience as a Data Analyst**, now actively seeking **full-time opportunities** to contribute to data-driven decision-making.
 
 📖 I'm currently pursuing my Master's student in **Business Analytics at California State University, East Bay (CSUEB)** and my passion for leveraging data science, predictive modeling, machine learning, and AI to solve complex real-world problems.
 
@@ -37,7 +37,7 @@ I'm a **dedicated and analytical-minded MSBA student** with over **3 + years of 
 ---
 
 ## **💼 Professional Highlights**
-- 🔍 Over **3+ years of experience** in **data analytics**, building dashboards, ETL pipelines, and generating actionable insights.  
+- 🔍 Over **4+ years of experience** in **data analytics**, building dashboards, ETL pipelines, and generating actionable insights.  
 - 📊 Successfully implemented projects using **AWS Glue**, **Python**, **SQL**, and **Tableau** to analyze and visualize complex datasets.  
 
 ---
